@@ -14,5 +14,10 @@ manejo de tipos de variables, cadena, if.from.while
 -![image](https://github.com/user-attachments/assets/d8970f6e-37d6-4dee-81c1-2d4a13f605a4)
 -cuando es falso
 -![image](https://github.com/user-attachments/assets/ddab9d0e-7b93-4bb8-825a-e358eb4ede75)
+##ejemplo from
+![image](https://github.com/user-attachments/assets/2196cf5a-0d24-4651-821a-28a4229349ed)
+##ejemplo while
+![image](https://github.com/user-attachments/assets/715c959a-a915-4fa9-8166-9eeb94347f02)
+
 
 
